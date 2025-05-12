@@ -11,7 +11,7 @@ This is a basic calculator built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[Click here to open the calculator](https://your-username.github.io/repo-name/)
+https://srinija592.github.io/Calculator/
 
 ## How to use
 
